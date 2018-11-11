@@ -1,7 +1,8 @@
 ---
 layout: page_copy
+title: Publications
 ---
-# Publications
+
 A complete list of my publications can be find on [arXiv](https://arxiv.org/find/all/1/all:+giusarma/0/1/0/all/0/1) or on [inSpire](http://inspirehep.net/search?ln=en&p=giusarma&of=hb&action_search=Search&sf=earliestdate&so=d)
 
 Selected publications:

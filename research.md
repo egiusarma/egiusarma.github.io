@@ -1,7 +1,8 @@
 ---
 layout: page_copy
+title: Research
 ---
-# Research
+
 My research interests are focused on deepening understanding of our Universe. I am interested in
 studying a variety of topics in theoretical cosmology using cosmological data. 
 My major fields of research include: neutrino Cosmology, dark energy, Cosmic Microwave Background (CMB) radiation and large-scale structure (LSS). \\

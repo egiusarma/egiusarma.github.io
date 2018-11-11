@@ -1,7 +1,8 @@
 ---
 layout: about
+title: About Me
 ---
-# About Me
+
 I am a Flatiron Research Fellow at the [Center for Computational Astrophysics](https://www.simonsfoundation.org/flatiron/center-for-computational-astrophysics/) (CCA). My research focuses on developing new algorithms and using machine learning methods in order to study the effect of neutrinos on numerical simulations.
 Prior to joining CCA, I was a postdoctoral researcher in the [McWilliams Center for Cosmology](https://www.cmu.edu/cosmology/people/index.html) at Carnegie Mellon University and a Research Affiliate at the [Lawrence Berkeley National Laboratory](http://cosmology.lbl.gov/directory.html) and [UC Berkeley](http://bccp.berkeley.edu/),  where I worked with professors Shirley Ho and Rupert Croft. Previously I was an INFN research fellow at [University of Rome "Sapienza"](https://www.phys.uniroma1.it) in the cosmology group of Prof. Alessandro Melchiorri. During this period I worked on topics in inflation, modified gravity and axion cosmology and I was a member of Planck collaboration. I received my PhD in 2013 at the [Instituto de Física Corpuscular (IFIC)](http://webific.ific.uv.es/web/) and University of Valencia under the supervision of Dr. Olga Mena, working on Neutrino Cosmology. Before this, I was an undergraduate student at the University of Rome "Sapienza" where I obtained my Master's degree in Astronomy and Astrophysics.
 

@@ -1,6 +1,6 @@
 ---
 layout: page_copy
-title: Projects
+#title: Projects
 ---
 
 ## [BASIS](http://www.crscience.org/volunteers/aboutbasis) -   Elementary School Outreach 

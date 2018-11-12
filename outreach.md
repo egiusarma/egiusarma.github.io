@@ -1,6 +1,5 @@
 ---
 layout: page_copy
-title: 
 ---
 
 ## [BASIS](http://www.crscience.org/volunteers/aboutbasis) -   Elementary School Outreach 
